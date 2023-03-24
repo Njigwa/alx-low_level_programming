@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that  prints a string of characters followed by a new line using puts function
+ * main - A program that  prints a string of characters using puts function
  *
  * Return 0 (success)
  */
