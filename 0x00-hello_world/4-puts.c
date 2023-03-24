@@ -1,10 +1,11 @@
 #include <stdio.h>
-/*
- * main - A program that  prints a string of characters followed by  a new line
- * return 0 (success)
+/**
+ * main - A program that  prints a string of characters followed by a new line using puts function
+ *
+ * Return 0 (success)
  */
-int main (void)
+int main(void)
 {
-	puts ("\"Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
