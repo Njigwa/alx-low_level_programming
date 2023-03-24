@@ -2,7 +2,7 @@
 /**
  * main - A program that  prints a string of characters using puts function
  *
- * Return 0 (success)
+ * Return 0 (Success)
  */
 int main(void)
 {
