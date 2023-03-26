@@ -13,7 +13,7 @@ int main(void)
 	long long int g;
 	float f;
 	
-	printf("The size of an integer is:lu.\n", (unsigned long)sizeof(i));
+	printf("The size of an integer is: lu.\n", (unsigned long)sizeof(i));
 	printf("The size of a double is: %lu.\n", (unsigned long)sizeof(d));
 	printf("The size of a character is: %lu.\n", (unsigned long)sizeof(c));
 	printf("The size of a long integer is: %l.\n", (unsigned long)sizeof(e));
