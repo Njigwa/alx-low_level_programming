@@ -11,11 +11,11 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
-	if (n > 5)      
-                printf("%d is greater than 5: \n", n)
-        else if (n==0)          
-                printf("%d is 0: \n", n)                
-        else (n < 6)    
-                printf("%d is less than and not 0: \n", n)   
+	if (n > 5);      
+                printf("%d is greater than 5: \n", n);
+        	(n==0);          
+                printf("%d is 0: \n", n);                
+        	(n < 6);    
+                printf("%d is less than and not 0: \n", n);   
 	return (0);
 }
