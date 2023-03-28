@@ -7,13 +7,13 @@
  */
 int main(void)
 {
-	int x = tolower(x);
-	int lower_x = tolower(x);
+	int x = 'A';
 
-	for (int x = 'A'; x <= 'Z'; x++)
-		putchar(tolower(x));
+	for (x++;
 
-		putchar('\n');
+	putchar(tolower(x));
+	
+	putchar('\n'));
 
 	return (0);
 }
